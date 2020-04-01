@@ -1,7 +1,7 @@
 # hello-strange-world
 
-Hello stranger!
+Hello stranger,
 
-it's Helena. I'm into playing the piano and eating green olives.
-Turtles are my favourite pets, right after rabbits.
-The sky is pink and the sea is blue. 
+Helena here, I like the piano and green olives. 
+The sky is pink and water is blue.
+Turtles are the best pets, right after rabbits.
